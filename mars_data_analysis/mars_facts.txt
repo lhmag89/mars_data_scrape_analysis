@@ -1,0 +1,8 @@
+MARS FACTS
+--------------------------------------------------------------------------------
+There are 12 months on Mars.
+There are 1967 sols (Martian days) worth of data in this table.
+On average, the coldest month is month 3, and the hottest month is month 8.
+On average, the month with the lowest pressure is month 6.
+On average, the month with the highest pressure is month 9.
+A Mars year is about 678 Earth days!
